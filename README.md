@@ -1,2 +1,1 @@
-# Douments
-notes 
+notes for future reference 
